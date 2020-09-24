@@ -1,4 +1,4 @@
-Stop comming over here
+Stop coming over here
 
 Go to: bluej.digtal
 
